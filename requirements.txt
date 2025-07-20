@@ -1,0 +1,4 @@
+numpy
+pandas
+
+# -e . # It is a second method to install packeges.
